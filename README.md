@@ -13,3 +13,4 @@ I developed this project to ease out the working of my college’s placement cel
 E-mails to the students to notify them about interview details from the software itself. 
 ***
 ![upload window](https://user-images.githubusercontent.com/43851597/61184069-d14efb00-a666-11e9-8922-418c5cb751aa.gif)
+![profile window](https://user-images.githubusercontent.com/43851597/61184102-5f2ae600-a667-11e9-8e74-24dd7631f1f9.gif)
