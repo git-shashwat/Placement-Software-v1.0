@@ -11,3 +11,5 @@ I developed this project to ease out the working of my college’s placement cel
 
 4. **Email Notifications** to selected/filtered students: User can access the *send e-mail* section of the software to send 
 E-mails to the students to notify them about interview details from the software itself. 
+***
+[]
