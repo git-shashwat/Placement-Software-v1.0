@@ -12,6 +12,15 @@ I developed this project to ease out the working of my college’s placement cel
 4. **Email Notifications** to selected/filtered students: User can access the *send e-mail* section of the software to send 
 E-mails to the students to notify them about interview details from the software itself. 
 ***
+## I used the following technologies to develop this software:
++ Python 3
++ Pandas
+> For Dataframe operations.
++ Regular Expressions
+> For Refining Dataframe entries
++ Tkinter
+> Used to bind the complete application into a GUI.
+***
 # Preview
 1. Upload Window
 ![upload window](https://user-images.githubusercontent.com/43851597/61184069-d14efb00-a666-11e9-8922-418c5cb751aa.gif)
