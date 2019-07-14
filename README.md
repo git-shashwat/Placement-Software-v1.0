@@ -15,4 +15,4 @@ E-mails to the students to notify them about interview details from the software
 ![upload window](https://user-images.githubusercontent.com/43851597/61184069-d14efb00-a666-11e9-8922-418c5cb751aa.gif)
 ![profile window](https://user-images.githubusercontent.com/43851597/61184102-5f2ae600-a667-11e9-8e74-24dd7631f1f9.gif)
 ![preview window](https://user-images.githubusercontent.com/43851597/61184154-0ad43600-a668-11e9-898f-871b116f79ba.gif)
-
+![email window](https://user-images.githubusercontent.com/43851597/61184196-98178a80-a668-11e9-88b6-ebea3d4fb4ef.gif)
